@@ -2,12 +2,12 @@
 
 ### Meu nome é William, 
 
-Tenho 22 anos, sou **programador Web em desenvolvimento**, com objetivo alcançar novos conhecimento que possam agregar positivamente no desenvolvimento pessoal e profissional. Estou **aberto** para os primeiros desafios na área de programação. Minhas características positivas estão ligadas a **network**, aprender com a experiência das pessoas gera satisfação e fortalece o conhecimento. Sempre buscar **formas criativas de resolver um problema**, trabalhando de forma **objetiva** junto a minhas competências, para agregar valor ao trabalho e auxiliar a equipe. Gosto de ressaltar que desafios são sempre bem-vindos!
+Tenho 22 anos, sou **programador Web e me desenvolvendo a Full Stack**, com objetivo alcançar novos conhecimento que possam agregar positivamente no desenvolvimento pessoal e profissional. Atualmente tenho domínio no Framework Angular e uma boa base com React JS/TS. Estou me aprofundando no back-end com a linguagem C#. Minhas características positivas estão ligadas a **network**, aprender com a experiência das pessoas gera satisfação e fortalece o conhecimento. Sempre buscar **formas criativas de resolver um problema**, trabalhando de forma **objetiva** junto a minhas competências, para agregar valor ao trabalho e auxiliar a equipe. Gosto de ressaltar que desafios são sempre bem-vindos!
 
 
 ### Minha carreira:
 <img width="20px" height="20px" src="https://cdn-icons-png.flaticon.com/512/9589/9589496.png">&ensp;Minha carreira foi voltada para área de Marketing (costumer success), porém sou apaixonado pelo desenvolvimento Web, fiz meu ensino médio Integrado ao Técnico em Informática, desde então a tecnologia sempre esteve no meu dia a dia;<br>
-<img width="20px" height="20px" src="https://cdn-icons-png.flaticon.com/512/9589/9589496.png">&ensp;Atualmente trabalho Sales development representative, na empresa CQL Addvogados.
+<img width="20px" height="20px" src="https://cdn-icons-png.flaticon.com/512/9589/9589496.png">&ensp;Atualmente trabalho na empresa Ekan Soluções e sistemas Integrados, atuando com Desenvolvedo.
 <br>
 ### Experiências:
 <img width="15px" height="15px" src="https://cdn-icons-png.flaticon.com/512/3953/3953226.png">&ensp;
