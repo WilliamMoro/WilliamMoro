@@ -7,7 +7,7 @@ Tenho 22 anos, sou **programador Full Stack**, com objetivo alcançar novos conh
 
 ### Minha carreira:
 <img width="20px" height="20px" src="https://cdn-icons-png.flaticon.com/512/9589/9589496.png">&ensp;Minha carreira foi voltada para área de Marketing (costumer success), porém sou apaixonado pelo desenvolvimento Web, fiz meu ensino médio Integrado ao Técnico em Informática, desde então a tecnologia sempre esteve no meu dia a dia;<br>
-<img width="20px" height="20px" src="https://cdn-icons-png.flaticon.com/512/9589/9589496.png">&ensp;Atualmente sou Desenvolvedor de Software na empresa Ekan Soluções e sistemas Integrados.
+<img width="20px" height="20px" src="https://cdn-icons-png.flaticon.com/512/9589/9589496.png">&ensp;Atualmente sou Desenvolvedor de Software Full Stack na empresa Ekan Soluções e sistemas Integrados.
 <br>
 ### Experiências:
 <img width="15px" height="15px" src="https://cdn-icons-png.flaticon.com/512/3953/3953226.png">&ensp;
