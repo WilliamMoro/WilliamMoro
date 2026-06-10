@@ -2,7 +2,7 @@
 
 ### Meu nome é William, 
 
-Tenho 22 anos, sou **programador Full Stack**, com objetivo alcançar novos conhecimento que possam agregar positivamente no desenvolvimento pessoal e profissional. Atualmente tenho domínio no Framework Angular e uma boa base com React JS/TS. Tenho conhecimento e uso a linguagem CSharp(C#) com o framework (.NET) para devenvolvimento back-end e SQL para fazer o gerenciamendo de dados no sistema MySQL . Minhas características positivas estão ligadas a **network**, aprender com a experiência das pessoas gera satisfação e fortalece o conhecimento. Sempre buscar **formas criativas de resolver um problema**, trabalhando de forma **objetiva** junto a minhas competências, para agregar valor ao trabalho e auxiliar a equipe. Gosto de ressaltar que desafios são sempre bem-vindos!
+Tenho 24 anos, sou **programador Full Stack**, com objetivo alcançar novos conhecimento que possam agregar positivamente no desenvolvimento pessoal e profissional. Atualmente tenho domínio no Framework Angular e uma boa base com React JS/TS. Tenho conhecimento e uso a linguagem CSharp(C#) com o framework (.NET) para devenvolvimento back-end e SQL para fazer o gerenciamendo de dados no sistema MySQL . Minhas características positivas estão ligadas a **network**, aprender com a experiência das pessoas gera satisfação e fortalece o conhecimento. Sempre buscar **formas criativas de resolver um problema**, trabalhando de forma **objetiva** junto a minhas competências, para agregar valor ao trabalho e auxiliar a equipe. Gosto de ressaltar que desafios são sempre bem-vindos!
 
 
 ### Minha carreira:
